@@ -40,3 +40,7 @@ Example:
 `python3 twitter2diaspora.py s04 s04bot **password** https://diasp.eu`
 
 It's up to you to add this in your crontab :)
+```
+# fire the bot every hour
+0 * * * * cd /path/to/twitter2diaspora/; ./twitter2diaspora.py s04 s04bot **password** https://diasp.eu
+```
