@@ -37,6 +37,6 @@ sudo pip3 install -r requirements.txt
 
 Example:
 
-`python3 twitter2diaspora.py s04 s04bot **password** https://diasp.eu
+`python3 twitter2diaspora.py s04 s04bot **password** https://diasp.eu`
 
 It's up to you to add this in your crontab :)
